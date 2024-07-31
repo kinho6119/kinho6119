@@ -13,10 +13,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=prussian)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=city_lights)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=github_dark_dimmed )
 <!--
 **kinho6119/kinho6119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
