@@ -2,7 +2,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinho6119)
 
-![](https://raw.githubusercontent.com/kinho6119/kinho6119/main/dist/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!--
 **kinho6119/kinho6119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
