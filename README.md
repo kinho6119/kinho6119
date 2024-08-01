@@ -16,8 +16,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=539BEE&background=22272D00&center=true%C2%A0%E7%9C%9F%E7%9A%84&vCenter=true%C2%A0%E7%9C%9F%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=435&separator=%3C&lines=printf(%22hello%2Cworld!%5Cn);)](https://git.io/typing-svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kinho&theme=transparent&hide_border=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84)](https://git.io/streak-stats)
 
-
+![Metrics](https://metrics.lecoq.io/kinho6119?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
