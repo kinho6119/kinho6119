@@ -20,6 +20,12 @@
 
 ![Metrics](https://metrics.lecoq.io/kinho6119?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=539BEE&background=22272D00&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=500&height=230&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22hello+world!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
+
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
