@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+<code><img width="65" height="65" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img width="65" height="65" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kinho6119&theme=dark-minimalist&date_format=%5BY.%5Dn.j&card_width=500&background=22272d&fire=539Bee&ring=539Bee&currStreakLabel=c5d1de&currStreakNum=539Bee&dates=c5d1de&sideNums=539Bee)](https://git.io/streak-stats)
 
@@ -21,7 +33,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kinho6119&theme=dark_dimmed)
 
-![](https://github-trophies.vercel.app/?username=kinho6119&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![trophy](https://github-trophies.vercel.app/?username=kinho6119&theme=flat&no-frame=true&no-bg=true)
 
 <p align="center"> 
   Visitor count<br>
