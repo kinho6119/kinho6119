@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=25A641&background=22272D00&center=true%C2%A0%E7%9C%9F%E7%9A%84&vCenter=true%C2%A0%E7%9C%9F%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=25A641&background=00000000&center=true%C2%A0%E7%9C%9F%E7%9A%84&vCenter=true%C2%A0%E7%9C%9F%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
 
 # 👣 Visitor Count
 <img src="https://komarev.com/ghpvc/?username=kinho6119&color=blue&style=for-the-badge&label=You+are+visitor" alt="Visitor Count" width="200" height="50">
@@ -46,7 +46,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kinho6119&hide_border=&fire=25A641&ring=25A641&currStreakLabel=40C363)](https://git.io/streak-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=539BEE&background=22272D00&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=500&height=230&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22Hello+world!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=25A641&background=00000000&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=500&height=230&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22Hello+world!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
 
 
 
