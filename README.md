@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-kinho6119&color=blue&style=for-the-badge&label=You+are+visitor)
+# 👣 Visitor Count
+<img src="https://komarev.com/ghpvc/?username=your-github-kinho6119&color=blue&style=for-the-badge&label=You+are+visitor" alt="Visitor Count" width="200" height="50">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake-dark.svg">
