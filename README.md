@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=539BEE&background=22272D&center=true%C2%A0%E7%9C%9F%E7%9A%84&vCenter=true%C2%A0%E7%9C%9F%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
+
 # 👣 Visitor Count
 <img src="https://komarev.com/ghpvc/?username=your-github-kinho6119&color=blue&style=for-the-badge&label=You+are+visitor" alt="Visitor Count" width="200" height="50">
 
@@ -15,11 +17,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1)
 
 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kinho6119/count.svg" />
-</p>
 
 # 💻Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,linux,qt,sqlite,vscode,git,python,astro,azure,windows,visualstudio,vercel,vim,ubuntu,md,github,anaconda,bash,cmake,cloudflare,css,docker,gmail,gitlab,githubactions,html,gcp,powershell,npm,pnpm,pytorch,tensorflow,yarn,js" /><br>
