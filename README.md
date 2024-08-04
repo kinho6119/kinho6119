@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-https://img.shields.io/github/license/kinho6119/repository.svg
-![License](https://img.shields.io/github/license/kinho6119/repository.svg)
+<img src="https://img.shields.io/badge/github-blue?logo=github&labelColor=5C5C5C" alt="Static Badge" style="width:150px; height:auto;">
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kinho6119&theme=dark-minimalist&date_format=%5BY.%5Dn.j&card_width=500&background=22272d&fire=539Bee&ring=539Bee&currStreakLabel=c5d1de&currStreakNum=539Bee&dates=c5d1de&sideNums=539Bee)](https://git.io/streak-stats)
