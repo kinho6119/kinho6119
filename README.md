@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=25A641&background=00000000&center=true%C2%A0%E7%9C%9F%E7%9A%84&vCenter=true%C2%A0%E7%9C%9F%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 # 👣 Visitor Count
@@ -9,7 +7,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/kinho6119/count.svg)
 
-![Visitor Count](https://profile-counter.glitch.me/kinho6119/count.svg)
 
 <table>
   <tr>
@@ -29,20 +26,38 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1)
 
 
-
 # 💻🛠📫Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,linux,qt,sqlite,vscode,git,python,astro,azure,windows,visualstudio,vercel,vim,ubuntu,md,github,anaconda,bash,cmake,cloudflare,css,docker,gmail,gitlab,githubactions,html,gcp,powershell,npm,pnpm,pytorch,tensorflow,yarn,js,matlab&theme=light" /><br>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,linux,qt,sqlite,vscode,git,python,astro,azure,windows,visualstudio,vercel,vim,ubuntu,md,github,anaconda,bash,cmake,cloudflare,css,docker,gmail,gitlab,githubactions,html,gcp,powershell,npm,pnpm,pytorch,tensorflow,yarn,js,matlab&theme=dark" /><br>
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
+<picture>
+  <source
+    srcset="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
+</picture>
 
 # 📊GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinho6119&theme=shadow_green&show_icons=true&bg_color=00000000&icon_color=057705)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&bg_color=00000000&&theme=vue-dark#gh-dark-mode-only)](https://github.com/kinho6119/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&bg_color=00000000&&theme=vue#gh-light-mode-only)](https://github.com/kinho6119/github-readme-stats#gh-light-mode-only)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=vue-dark&title_color=39d353&icon_color=39d353&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000" />
+</picture>
 
 <picture>
   <source
@@ -56,7 +71,7 @@
   <img src="https://streak-stats.demolab.com/?user=kinho6119&theme=github-light&background=00000000&dates=39d353" />
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kinho6119&theme=hacker&background=00000000)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=25A641&background=00000000&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=500&height=230&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22Hello+World!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
