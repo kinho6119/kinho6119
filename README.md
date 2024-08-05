@@ -50,10 +50,10 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com/?user=kinho6119&theme=shadow-green&background=00000000"
+    srcset="https://streak-stats.demolab.com/?user=kinho6119&theme=github-light&background=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak-stats.demolab.com/?user=kinho6119&theme=shadow-green&background=00000000" />
+  <img src="https://streak-stats.demolab.com/?user=kinho6119&theme=github-light&background=00000000" />
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kinho6119&theme=hacker&background=00000000)](https://git.io/streak-stats)
