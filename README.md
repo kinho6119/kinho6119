@@ -34,6 +34,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
+![My Skills](https://github.com/kinho6119/kinho6119/raw/main/icons-dark.svg)
+
+
 <picture>
   <source
     srcset="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark"
