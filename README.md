@@ -54,6 +54,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=github-light&background=00000000)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=hacker&background=00000000)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kinho6119&fire=25A641&ring=25A641&currStreakLabel=40C363&background=00000000)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=25A641&background=00000000&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=500&height=230&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22Hello+World!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
