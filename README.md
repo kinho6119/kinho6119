@@ -27,51 +27,23 @@
 
 
 # 💻🛠📫Tech Stack
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,qt,sqlite,vscode,git,python,astro,azure,windows,visualstudio,vercel,vim,ubuntu,md,github,anaconda,bash,cmake,cloudflare,css,docker,gmail,gitlab,githubactions,html,gcp,powershell,npm,pnpm,pytorch,tensorflow,yarn,js,matlab&theme=light" /><br>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,qt,sqlite,vscode,git,python,astro,azure,windows,visualstudio,vercel,vim,ubuntu,md,github,anaconda,bash,cmake,cloudflare,css,docker,gmail,gitlab,githubactions,html,gcp,powershell,npm,pnpm,pytorch,tensorflow,yarn,js,matlab&theme=dark" /><br>
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
-
-![My Skills](https://github.com/kinho6119/kinho6119/raw/main/icons-dark.svg)
-
-
 <picture>
-  <source
-    srcset="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
+  <source srcset="https://github.com/kinho6119/kinho6119/raw/main/skill-icons-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github.com/kinho6119/kinho6119/raw/main/skill-icons-light.svg" media="(prefers-color-scheme: light)" />
+  <img alt="tech stack" src="https://github.com/kinho6119/kinho6119/raw/main/skill-icons-light.svg" />
 </picture>
 
 # 📊GitHub Stats
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=vue-dark&title_color=39d353&icon_color=39d353&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=vue-dark&title_color=39d353&icon_color=39d353&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000" media="(prefers-color-scheme: light)" />
+  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000" />
 </picture>
 
 <picture>
-  <source
-    srcset="https://streak-stats.demolab.com/?user=kinho6119&theme=github-dark&background=00000000&fire=39d353"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com/?user=kinho6119&theme=github-light&background=00000000&dates=39d353"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com/?user=kinho6119&theme=github-light&background=00000000&dates=39d353" />
+  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&theme=github-dark&background=00000000&fire=39d353" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&theme=github-light&background=00000000&dates=39d353" media="(prefers-color-scheme: light)" />
+  <img alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&theme=github-light&background=00000000&dates=39d353" />
 </picture>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
