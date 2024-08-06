@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gzoeut7lw4cz7v54tofk4f6m3i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gzoeut7lw4cz7v54tofk4f6m3i)](https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gzoeut7lw4cz7v54tofk4f6m3i)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gzoeut7lw4cz7v54tofk4f6m3i&count=3)
