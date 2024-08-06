@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gzoeut7lw4cz7v54tofk4f6m3i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gzoeut7lw4cz7v54tofk4f6m3i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gzoeut7lw4cz7v54tofk4f6m3i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gzoeut7lw4cz7v54tofk4f6m3i)](https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gzoeut7lw4cz7v54tofk4f6m3i)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gzoeut7lw4cz7v54tofk4f6m3i&count=3)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=25A641&background=00000000&center=true%C2%A0%E7%9C%9F%E7%9A%84&vCenter=true%C2%A0%E7%9C%9F%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
