@@ -7,6 +7,14 @@
   />
 </a>
 
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <picture>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=false?spin=false" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=false?spin=true" />
+    <img alt="Current Spotify Song"> <!-- https://github.com/kinho6119/Spotify-Readme -->
+  </picture>
+</a>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gzoeut7lw4cz7v54tofk4f6m3i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c83232&interchange=true&bar_color=26cf20&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gzoeut7lw4cz7v54tofk4f6m3i)](https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i)
