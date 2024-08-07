@@ -2,10 +2,19 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=109323159&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=109323159&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @kinho6119" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=109323159&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 <div id="badges" align="center">
-
  <img src="https://komarev.com/ghpvc/?username=kiinho6119&style=flat-square&color=blue" alt=""/>
-
 </div>
 
 ![](https://github-contributor-stats.vercel.app/api?username=kinho6119&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -35,7 +44,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinho6119&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinho6119&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinho6119&theme=dark)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=vue&utcOffset=8)
 <a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
   <picture>
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=true&spin=true" />
