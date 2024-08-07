@@ -36,7 +36,7 @@
 
 
 # 🏆Github Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1)
+![trophy](https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1&no-frame=false)
 
 
 # 💻🛠📫Tech Stack
@@ -48,19 +48,19 @@
 
 # 📊GitHub Stats
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=false&show_icons=true&theme=vue-dark&title_color=39d353&icon_color=39d353&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=false&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000" media="(prefers-color-scheme: light)" />
-  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=false&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&title_color=39d353&icon_color=39d353&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000" media="(prefers-color-scheme: light)" />
+  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000" />
 </picture>
 
 <picture>
-  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=false&border=E4E2E3&theme=github-dark&background=00000000&fire=39d353" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=false&border=E4E2E3&theme=github-light&background=00000000&dates=39d353" media="(prefers-color-scheme: light)" />
-  <img alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=false&border=E4E2E3&theme=github-light&background=00000000&dates=39d353" />
+  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-dark&background=00000000&fire=39d353" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=39d353" media="(prefers-color-scheme: light)" />
+  <img alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=39d353" />
 </picture>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&hide_border=false&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&hide_border=true&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=25A641&background=00000000&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=500&height=230&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22Hello+World!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
