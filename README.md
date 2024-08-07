@@ -3,8 +3,8 @@
 <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=true?spin=true" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=false?spin=true" />
-    <img alt="Current Spotify Song" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&title_color=39d353&icon_color=39d353&bg_color=00000000" /> <!-- https://github.com/kinho6119/Spotify-Readme -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=true?spin=true" />
+    <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=true?spin=true" /> <!-- https://github.com/kinho6119/Spotify-Readme -->
   </picture>
 </a>
 
