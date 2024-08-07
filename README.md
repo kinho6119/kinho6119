@@ -2,6 +2,16 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
+![](https://github-contributor-stats.vercel.app/api?username=kinho6119&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=kinho6119&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31gzoeut7lw4cz7v54tofk4f6m3i">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31gzoeut7lw4cz7v54tofk4f6m3i" alt="Data Card for Spotify">
+</a>
+
+[![Moon.svg](https://dday-widget.minung.dev/widget?theme=theme2&text=New%20Year%20%F0%9F%99%82&date=2024-01-01&startDate=2023-01-01)](https://dday-widget.minung.dev)
+
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=1997-07-23&size=200&theme=ray&rotate=0)](https://moon-svg.minung.dev)
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=109323159" target="_blank" style="display: block" align="center">
