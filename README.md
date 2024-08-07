@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<a href="https://kinho6119.pythonanywhere.com/link">
-  <img
-    src="https://kinho6119.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
-
 <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=false?spin=false" />
