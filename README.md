@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://github.com/tthn0/Spotify-Readme">
+<a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
   <picture>
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=true&spin=true" />
     <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=true&spin=true" />
