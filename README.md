@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinho6119&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinho6119&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinho6119&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinho6119&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinho6119&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinho6119&theme=dark)
+
 <a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
   <picture>
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=true&spin=true" />
@@ -35,7 +42,7 @@
 
 
 # 🏆Github Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1&no-frame=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1&no-frame=true)
 
 
 # 💻🛠📫Tech Stack
@@ -59,7 +66,7 @@
 </picture>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&hide_border=true&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&hide_border=true&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=25A641&background=00000000&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=520&height=230&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22Hello+World!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
