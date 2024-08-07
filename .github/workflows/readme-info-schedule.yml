@@ -13,7 +13,7 @@ jobs:
       - uses: kinho6119/kinho6119@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: "Asia/Kolkata"
+          TIMEZONE: "Asia/Shanghai"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_DAILY_COMMIT: "True"
