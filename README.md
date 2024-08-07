@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=39d353&text=i%20am%20kinho&section=header&textBg=false)
 <!-- Copy-paste in your Readme.md file -->
 
 <!-- Copy-paste in your Readme.md file -->
