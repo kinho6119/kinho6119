@@ -10,9 +10,9 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31gzoeut7lw4cz7v54tofk4f6m3i" alt="Data Card for Spotify">
 </a>
 
-[![Moon.svg](https://dday-widget.minung.dev/widget?theme=theme2&text=New%20Year%20%F0%9F%99%82&date=2024-01-01&startDate=2023-01-01)](https://dday-widget.minung.dev)
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=1997-07-23&size=200&theme=ray&rotate=0)](https://moon-svg.minung.dev)
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev)
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=109323159" target="_blank" style="display: block" align="center">
   <picture>
@@ -113,3 +113,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
