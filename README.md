@@ -3,24 +3,8 @@
 
 
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=1ED760&text=i%20am%20kinho&section=header&textBg=false)
-<!-- Copy-paste in your Readme.md file -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=109323159&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=109323159&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @kinho6119" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=109323159&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-
 ![](https://github-contributor-stats.vercel.app/api?username=kinho6119&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=kinho6119&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31gzoeut7lw4cz7v54tofk4f6m3i">
