@@ -2,9 +2,9 @@
 
 ![](https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png)
 
+![](https://github.com/kinho6119/kinho6119/raw/main/reports/psresultdesktop.svg)
 
-
-
+![](https://github.com/kinho6119/kinho6119/raw/main/reports/psresultmobile.svg)
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31gzoeut7lw4cz7v54tofk4f6m3i">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31gzoeut7lw4cz7v54tofk4f6m3i" alt="Data Card for Spotify">
