@@ -1,7 +1,7 @@
 ## Hi there 👋
-![](https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png)
+![](https://github.com/kinho6119/kinho6119/raw/main/github-header-light-image.png)
 
-
+![](https://github.com/kinho6119/kinho6119/raw/main/github-header-dark-image.png)
 
 ![](https://github-contributor-stats.vercel.app/api?username=kinho6119&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
