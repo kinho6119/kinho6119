@@ -3,8 +3,6 @@
 ![](https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png)
 
 
-<h3 align="left">I am currently reading:</h3>
-<a href="<https://www.goodreads.com/user/show/180750584-kinho6119"><img src="https://goodreads-readme.vercel.app/api/book?id=180750584" alt="GoodReads reading" width="350" /></a>
 
 
 
