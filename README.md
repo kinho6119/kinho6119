@@ -2,37 +2,15 @@
 
 ![](https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png)
 
-![](https://github.com/kinho6119/kinho6119/raw/main/reports/psresultdesktop.svg)
 
-![](https://github.com/kinho6119/kinho6119/raw/main/reports/psresultmobile.svg)
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31gzoeut7lw4cz7v54tofk4f6m3i">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31gzoeut7lw4cz7v54tofk4f6m3i" alt="Data Card for Spotify">
-</a>
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev)
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=109323159" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=109323159&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @kinho6119" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=109323159&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinho6119&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinho6119&theme=github&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinho6119&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinho6119&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinho6119&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinho6119&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=vue&utcOffset=8)
+
 <a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
   <picture>
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=true&spin=true" />
@@ -42,10 +20,7 @@
 </a>
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gzoeut7lw4cz7v54tofk4f6m3i)](https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=1ED760&background=00000000&center=true%C2%A0%E7%9C%9F%E7%9A%84&vCenter=true%C2%A0%E7%9C%9F%E7%9A%84&repeat=true%C2%A0%E7%9C%9F%E7%9A%84&random=false%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 # 👣 Visitor Count
 <img src="https://komarev.com/ghpvc/?username=kinho6119&color=1ED760&style=for-the-badge&label=You+are+visitor" alt="Visitor Count" width="200" height="50">
