@@ -1,4 +1,8 @@
 ## Hi there 👋
+![](https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png)
+
+
+
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=1ED760&text=i%20am%20kinho&section=header&textBg=false)
 <!-- Copy-paste in your Readme.md file -->
 
