@@ -47,11 +47,15 @@
 
 
 # 💻🛠📫Tech Stack
-<picture>
-  <source srcset="https://github.com/kinho6119/kinho6119/raw/main/skill-icons-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github.com/kinho6119/kinho6119/raw/main/skill-icons-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="tech stack" src="https://github.com/kinho6119/kinho6119/raw/main/skill-icons-light.svg" />
-</picture>
+<a href="https://github.com/tandpfun/skill-icons">
+  <picture>
+    <source srcset="https://github.com/kinho6119/kinho6119/raw/main/skill-icons-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github.com/kinho6119/kinho6119/raw/main/skill-icons-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img alt="tech stack" src="https://github.com/kinho6119/kinho6119/raw/main/skill-icons-light.svg" />
+  </picture>
+</a>
+
+
 
 # 📊GitHub Stats
 <picture>
