@@ -2,9 +2,9 @@
 
 ![](https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&ring_color=1ED760&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![](https://github-contributor-stats.vercel.app/api?username=kinho6119&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="left">I am currently reading:</h3>
+<a href="<https://www.goodreads.com/user/show/180750584-kinho6119"><img src="https://goodreads-readme.vercel.app/api/book?id=180750584" alt="GoodReads reading" width="350" /></a>
 
 
 
@@ -82,9 +82,9 @@
 
 # 📊GitHub Stats
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=percentile&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=percentile&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=percentile&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
 </picture>
 
 <picture>
