@@ -6,10 +6,10 @@
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev)
 
-# 👨‍💻 About Me 👨‍💻
+# 👨‍💻 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2999&pause=1000&color=1ED760&multiline=true&width=1000&height=250&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+am+an+embedded+software+developer!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+love+open+source!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
 
-# 🎵 Spotify Recently Played 🎵
+# 🎵 Recently Played
 <a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
   <picture>
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" />
@@ -18,10 +18,7 @@
   </picture>
 </a>
 
-
-
-
-# 👣 Visitor Count 👣
+# 👣 Visitor Count
 <img src="https://komarev.com/ghpvc/?username=kinho6119&color=1ED760&style=for-the-badge&label=You+are+visitor" alt="Visitor Count" width="200" height="50">
 
 ![Visitor Count](https://profile-counter.glitch.me/kinho6119/count.svg)
@@ -37,11 +34,11 @@
 
 
 
-# 🏆 Github Trophy 🏆
+# 🏆 Github Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1&no-frame=true)
 
 
-# 💻🛠📫Tech Stack
+# 🛠📫 Tech Stack
 <a href="https://github.com/tandpfun/skill-icons">
   <picture>
     <source srcset="https://github.com/kinho6119/kinho6119/raw/main/skill-icons-dark.svg" media="(prefers-color-scheme: dark)" />
@@ -52,7 +49,7 @@
 
 
 
-# 📊 GitHub Stats 📊
+# 📊 GitHub Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake.svg">
@@ -73,9 +70,6 @@
 
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&hide_border=true&line=1ED760&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
 ![](https://github.com/kinho6119/kinho6119/raw/main/github-footer-image.svg)
 
