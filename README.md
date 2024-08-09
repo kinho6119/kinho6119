@@ -58,10 +58,11 @@
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake.svg">
 </picture>
+
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=percentile&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=percentile&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=percentile&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
 </picture>
 
 <picture>
