@@ -3,10 +3,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-    <img alt="Current Spotify Song" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=dark" />
+    <img alt="Current Spotify Song" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=light" />
     <picture>
   </a>
 </p>
