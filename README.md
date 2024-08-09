@@ -1,37 +1,20 @@
 ![](https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=light" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=dark" />
-    <img alt="Current Spotify Song" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=light" />
-    <picture>
-  </a>
-</p>
-
-# 🎵 Spotify Recently Played 🎵
-<a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
-  <picture>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=true&spin=true" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=true&spin=true" />
-    <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=true&spin=true" /> <!-- https://github.com/kinho6119/Spotify-Readme -->
-  </picture>
-</a>
+![](https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg)
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev)
 
 # 👨‍💻 About Me 👨‍💻
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=1000&color=1ED760&background=00000000&center=false&vCenter=false&multiline=true&repeat=true&random=false&width=520&height=230&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22Hello+World!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2999&pause=1000&color=1ED760&multiline=true&width=1000&height=250&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+am+an+embedded+software+developer!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+love+open+source!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
 
 # 🎵 Spotify Recently Played 🎵
 <a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
   <picture>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=true&spin=true" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=true&spin=true" />
-    <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=true&spin=true" /> <!-- https://github.com/kinho6119/Spotify-Readme -->
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=false&spin=true" />
+    <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" /> <!-- https://github.com/kinho6119/Spotify-Readme -->
   </picture>
 </a>
 
@@ -54,7 +37,7 @@
 
 
 
-# 🏆 Github Profile Trophy 🏆
+# 🏆 Github Trophy 🏆
 ![Trophy](https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1&no-frame=true)
 
 
