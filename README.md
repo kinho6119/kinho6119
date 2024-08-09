@@ -1,6 +1,21 @@
 ![](https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <picture>
+  </a>
+</p>
 
+# 🎵 Spotify Recently Played 🎵
+<a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
+  <picture>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=true&spin=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=true&spin=true" />
+    <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=true&spin=true" /> <!-- https://github.com/kinho6119/Spotify-Readme -->
+  </picture>
+</a>
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
 
