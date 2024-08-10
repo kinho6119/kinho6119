@@ -2,24 +2,6 @@
 
 
 
-<div align="left">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
-  </picture>
-</div><div align="right">
-  <picture>
-    <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-dark&background=00000000&fire=1ED760" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" />
-  </picture>
-</div>
-
-
-
-
-
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev)
@@ -27,17 +9,21 @@
 # 👨‍💻 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2999&pause=1000&color=1ED760&multiline=true&width=1000&height=250&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+am+an+embedded+software+developer!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+love+open+source!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
 
+
 # 🎵 Spotify Recently Played
-<a href="https://github.com/tthn0/Spotify-Readme">
+<a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
   <picture>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" >
-    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=false&spin=true" >
-    <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" > 
-    <!-- https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i -->
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=false&spin=true" />
+    <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" /> 
   </picture>
 </a>
 
-![LogosSpotifyIcon.svg](https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg)
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img align="right" src="https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg" />
+</a>
+
+
 
 # 👣 Visitor Count
 <img src="https://komarev.com/ghpvc/?username=kinho6119&color=1ED760&style=for-the-badge&label=You+are+visitor" alt="Visitor Count" width="200" height="50">
@@ -77,15 +63,15 @@
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
+  <source align="left" srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+  <source align="left" srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img align="left" alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
 </picture>
 
 <picture>
-  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-dark&background=00000000&fire=1ED760" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" />
+  <source align="right" srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-dark&background=00000000&fire=1ED760" media="(prefers-color-scheme: dark)" />
+  <source align="right" srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img align="right" alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" />
 </picture>
 
 
