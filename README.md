@@ -1,6 +1,8 @@
-[![github-header-image.png](https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png)](https://github.com/leviarista/github-profile-header-generator)
-
-
+<div align="center">
+  <a href="https://github.com/leviarista/github-profile-header-generator">
+    <img src="https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png" />
+  </a>      
+</div>
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
 
@@ -20,7 +22,7 @@
 </a>
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg" />
+  <img align="left" src="https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg" />
 </a>
 
 
@@ -42,8 +44,11 @@
 
 
 # 🏆 Github Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1&no-frame=true)
-
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1&no-frame=true" />
+  </a>
+</div>
 
 # 🛠 Tech Stack
 <a href="https://github.com/tandpfun/skill-icons">
@@ -56,32 +61,43 @@
 
 
 # 📊 GitHub Stats
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="left">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake.svg">
-</picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
+  </picture>
+</div>
 
-<picture>
-  <source align="left" srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-  <source align="left" srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img align="left" alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
-</picture>
+<div align="right">
+  <picture>
+    <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-dark&background=00000000&fire=1ED760" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" />
+  </picture>
+</div>
 
-<picture>
-  <source align="right" srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-dark&background=00000000&fire=1ED760" media="(prefers-color-scheme: dark)" />
-  <source align="right" srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img align="right" alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" />
-</picture>
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&hide_border=true&line=1ED760&theme=github-compact&area=true" />
+  </a>
+</div>
 
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&hide_border=true&line=1ED760&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 📫 Contact Me
 - 📧Email: [kinho6119@163.com](mailto:kinho6119@163.com)
   
-![](https://github.com/kinho6119/kinho6119/raw/main/github-footer-image.svg)
-
+<div align="center">
+    <img src="https://github.com/kinho6119/kinho6119/raw/main/github-footer-image.svg" />
+</div>
 <!--
 **kinho6119/kinho6119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
