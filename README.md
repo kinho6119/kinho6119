@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img align="right" src="https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg" />
+  <img src="https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg" />
 </a>
 
 
