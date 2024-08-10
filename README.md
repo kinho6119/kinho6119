@@ -62,7 +62,7 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Platane/snk">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake.svg">
@@ -71,22 +71,22 @@
   </a>
 </div>
 
-<div align="left">
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&card_width=450&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&card_width=450&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&card_width=450&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
     </picture>
   </a>
 </div>
 
-<div align="right">
+<div>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <picture>
-      <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-dark&background=00000000&fire=1ED760" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" />
+      <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&card_width=450&theme=github-dark&background=00000000&fire=1ED760" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&card_width=450&theme=github-light&background=00000000&dates=1ED760" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&card_width=450&theme=github-light&background=00000000&dates=1ED760" />
     </picture>
   </a>
 </div>
