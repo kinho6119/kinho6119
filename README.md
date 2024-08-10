@@ -6,6 +6,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Markdown Extended Features](https://fuwari.vercel.app/posts/markdown-extended/)
+- [Simple Guides for Fuwari](https://fuwari.vercel.app/posts/guide/)
+- [Markdown Example](https://fuwari.vercel.app/posts/markdown/)
+- [Include Video in the Posts](https://fuwari.vercel.app/posts/video/)
 <!-- BLOG-POST-LIST:END -->
 
 # 👨‍💻 About Me
