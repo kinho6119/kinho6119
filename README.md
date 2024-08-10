@@ -4,7 +4,7 @@
   </a>      
 </div>
 
-# Blog posts
+# Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Markdown Extended Features](https://fuwari.vercel.app/posts/markdown-extended/)
 - [Simple Guides for Fuwari](https://fuwari.vercel.app/posts/guide/)
