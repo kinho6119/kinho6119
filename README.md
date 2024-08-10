@@ -1,6 +1,7 @@
 [![github-header-image.png](https://github.com/kinho6119/kinho6119/raw/main/github-header-image.png)](https://github.com/leviarista/github-profile-header-generator)
 
 
+
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev)
@@ -50,7 +51,6 @@
 </a>
 
 
-
 # 📊 GitHub Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kinho6119/kinho6119/output/github-contribution-grid-snake-dark.svg">
@@ -59,23 +59,23 @@
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" >
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" >
-  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" >
+  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue-dark&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=kinho6119&hide_border=true&show_icons=true&theme=vue&rank_icon=github&ring_color=1ED760&title_color=1ED760&icon_color=1ED760&bg_color=00000000" />
 </picture>
 
 <picture>
-  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-dark&background=00000000&fire=1ED760" media="(prefers-color-scheme: dark)" >
-  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" >
-  <img alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" >
+  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-dark&background=00000000&fire=1ED760" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="streak stats" src="https://streak-stats.demolab.com/?user=kinho6119&hide_border=true&border=E4E2E3&theme=github-light&background=00000000&dates=1ED760" />
 </picture>
 
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&hide_border=true&line=1ED760&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 📫 Contact Me
-- Email: [kinho6119@163.com](mailto:kinho6119@163.com)
-- 
+- 📧Email: [kinho6119@163.com](mailto:kinho6119@163.com)
+  
 ![](https://github.com/kinho6119/kinho6119/raw/main/github-footer-image.svg)
 
 <!--
@@ -93,35 +93,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
-</p>
-<br />
-
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
