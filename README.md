@@ -10,19 +10,11 @@
 
 
 # 👣 Visitor Count
-<img src="https://komarev.com/ghpvc/?username=kinho6119&color=1ED760&style=for-the-badge&label=You+are+visitor" alt="Visitor Count" width="200" height="50">
-
-![Visitor Count](https://profile-counter.glitch.me/kinho6119/count.svg)
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
-
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev)
-
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/kinho6119/count.svg" alt="" /></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=kinho6119&color=1ED760&style=for-the-badge&label=You+are+visitor" width="200" height="50"/>
+  </a>
+</div>
 
 
 # 🏆 Github Profile Trophies
