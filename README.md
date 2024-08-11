@@ -5,11 +5,8 @@
 </div>
 
 
-
 # 👨‍💻 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2999&pause=1000&color=1ED760&multiline=true&width=1000&height=250&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+am+an+embedded+software+developer!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+love+open+source!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
-
-
 
 
 # 👣 Visitor Count
@@ -27,18 +24,6 @@
   </tr>
 </table>
 
-# ⚡ Recent GitHub Activity
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [kinho6119/kinho6119](https://github.com/kinho6119/kinho6119)<br>
-2. ⬆️ Pushed 1 commit(s) to [kinho6119/kinho6119](https://github.com/kinho6119/kinho6119)<br>
-3. ⬆️ Pushed 1 commit(s) to [kinho6119/kinho6119](https://github.com/kinho6119/kinho6119)<br>
-4. ⬆️ Pushed 1 commit(s) to [kinho6119/kinho6119](https://github.com/kinho6119/kinho6119)<br>
-5. ⬆️ Pushed 1 commit(s) to [kinho6119/spotify-recently-played-readme](https://github.com/kinho6119/spotify-recently-played-readme)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 11th, 2024, 3:38:58 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 # 🏆 Github Profile Trophies
 <div align="center">
@@ -46,6 +31,7 @@ Last Updated: Sunday, August 11th, 2024, 3:38:58 PM
     <img src="https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1&no-frame=true" />
   </a>
 </div>
+
 
 <!--
 https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,css,docker,fastapi,firebase,gcp,git,github,githubactions,gitlab,gmail,html,js,linux,lua,md,matlab,nodejs,notion,npm,pnpm,powershell,py,pytorch,qt,sqlite,svg,tensorflow,ubuntu,vercel,vim,visualstudio,vscode,windows
@@ -60,6 +46,7 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
     </picture>
   </a>
 </div>
+
 
 # 📊 GitHub Stats
 <div align="center">
@@ -89,24 +76,39 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
     </picture>
   </a>
 </div>
+
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kinho6119&hide_border=true&line=1ED760&theme=github-compact&area=true" />
   </a>
 </div>
 
-# 🎵 Spotify Recently Played
-<a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
-  <picture>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=false&spin=true" />
-    <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" /> 
-  </picture>
-</a>
 
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img align="left" src="https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg" />
-</a>
+# 🎵 Spotify Recently Played
+<div align="center">
+  <a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
+    <picture>
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=false&spin=true" />
+      <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" /> 
+    </picture>
+  </a>
+</div>
+
+
+# ⚡ Recent GitHub Activity
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [kinho6119/kinho6119](https://github.com/kinho6119/kinho6119)<br>
+2. ⬆️ Pushed 1 commit(s) to [kinho6119/kinho6119](https://github.com/kinho6119/kinho6119)<br>
+3. ⬆️ Pushed 1 commit(s) to [kinho6119/kinho6119](https://github.com/kinho6119/kinho6119)<br>
+4. ⬆️ Pushed 1 commit(s) to [kinho6119/kinho6119](https://github.com/kinho6119/kinho6119)<br>
+5. ⬆️ Pushed 1 commit(s) to [kinho6119/spotify-recently-played-readme](https://github.com/kinho6119/spotify-recently-played-readme)<br>
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, August 11th, 2024, 3:38:58 PM
+<!--RECENT_ACTIVITY:last_update_end-->
+
 
 # 🗒️ Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
@@ -118,7 +120,8 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 
 # 📫 Contact Me
 - 📧[Email](mailto:kinho6119@163.com)
-- 🗒️[Blog](https://fuwari-nine.vercel.app/)
+
+
 <div align="center">
     <img src="https://github.com/kinho6119/kinho6119/raw/main/github-footer-image.svg" />
 </div>
