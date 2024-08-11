@@ -4,30 +4,11 @@
   </a>      
 </div>
 
-# Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Markdown Extended Features](https://fuwari.vercel.app/posts/markdown-extended/)
-- [Simple Guides for Fuwari](https://fuwari.vercel.app/posts/guide/)
-- [Markdown Example](https://fuwari.vercel.app/posts/markdown/)
-- [Include Video in the Posts](https://fuwari.vercel.app/posts/video/)
-<!-- BLOG-POST-LIST:END -->
+
 
 # 👨‍💻 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2999&pause=1000&color=1ED760&multiline=true&width=1000&height=250&separator=%3D&lines=%23include+%3Cstdio.h%3E%3Dint+main(void)%3D%7B%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+am+an+embedded+software+developer!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;printf(%22I+love+open+source!%5Cn%22);%3D&nbsp;&nbsp;&nbsp;&nbsp;return+0;%3D%7D)](https://git.io/typing-svg)
 
-
-# 🎵 Spotify Recently Played
-<a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
-  <picture>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=false&spin=true" />
-    <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" /> 
-  </picture>
-</a>
-
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img align="left" src="https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg" />
-</a>
 
 
 
@@ -104,6 +85,26 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
   </a>
 </div>
 
+# 🎵 Spotify Recently Played
+<a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
+  <picture>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://kinho6119.pythonanywhere.com?theme=dark&scan=false&spin=true" />
+    <img alt="Current Spotify Song" src="https://kinho6119.pythonanywhere.com?theme=light&scan=false&spin=true" /> 
+  </picture>
+</a>
+
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img align="left" src="https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg" />
+</a>
+
+# Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Markdown Extended Features](https://fuwari.vercel.app/posts/markdown-extended/)
+- [Simple Guides for Fuwari](https://fuwari.vercel.app/posts/guide/)
+- [Markdown Example](https://fuwari.vercel.app/posts/markdown/)
+- [Include Video in the Posts](https://fuwari.vercel.app/posts/video/)
+<!-- BLOG-POST-LIST:END -->
 
 # 📫 Contact Me
 - 📧Email: [kinho6119@163.com](mailto:kinho6119@163.com)
