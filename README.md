@@ -27,10 +27,12 @@
   </tr>
 </table>
 
+# ⚡ Recent GitHub Activity
+<!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:last_update-->
 
-
-# 🏆 Github Trophies
+# 🏆 Github Profile Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kinho6119&theme=onedark&no-bg=true&column=-1&no-frame=true" />
