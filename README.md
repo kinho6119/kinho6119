@@ -98,7 +98,7 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
   <img align="left" src="https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg" />
 </a>
 
-# Blog Posts
+# 📰 Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 - [Markdown Extended Features](https://fuwari.vercel.app/posts/markdown-extended/)
 - [Simple Guides for Fuwari](https://fuwari.vercel.app/posts/guide/)
