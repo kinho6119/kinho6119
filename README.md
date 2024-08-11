@@ -98,7 +98,7 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
   <img align="left" src="https://github.com/kinho6119/kinho6119/raw/main/LogosSpotifyIcon.svg" />
 </a>
 
-# 📰 Latest Blogs Posts
+# 🗒️ Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 - [Markdown Extended Features](https://fuwari.vercel.app/posts/markdown-extended/)
 - [Simple Guides for Fuwari](https://fuwari.vercel.app/posts/guide/)
@@ -107,8 +107,8 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Contact Me
-- 📧Email: [kinho6119@163.com](mailto:kinho6119@163.com)
-  
+- 📧[Email](mailto:kinho6119@163.com)
+- 🗒️[Blog](https://fuwari-nine.vercel.app/)
 <div align="center">
     <img src="https://github.com/kinho6119/kinho6119/raw/main/github-footer-image.svg" />
 </div>
