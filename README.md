@@ -111,7 +111,7 @@ Last Updated: Wednesday, August 14th, 2024, 11:40:03 PM
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Contact Me
-- 📧[Email](mailto:kinho6119@163.com)
+- 📧[Email](mailto:kinholeung6119@gmail.com)
 
 
 <div align="center">
