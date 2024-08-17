@@ -90,15 +90,15 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 
 # ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KinhoLeung/KinhoLeung](https://github.com/KinhoLeung/KinhoLeung)<br>
-2. ⬆️ Pushed 1 commit(s) to [kinholeung/kinholeung](https://github.com/kinholeung/kinholeung)<br>
-3. ⬆️ Pushed 23 commit(s) to [kinho6119/blog](https://github.com/kinho6119/blog)<br>
-4. ⬆️ Pushed 1 commit(s) to [kinho6119/kinho6119](https://github.com/kinho6119/kinho6119)<br>
+1. ⭐ Starred [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme)<br>
+2. ⬆️ Pushed 1 commit(s) to [KinhoLeung/KinhoLeung](https://github.com/KinhoLeung/KinhoLeung)<br>
+3. ⬆️ Pushed 1 commit(s) to [kinholeung/kinholeung](https://github.com/kinholeung/kinholeung)<br>
+4. ⬆️ Pushed 23 commit(s) to [kinho6119/blog](https://github.com/kinho6119/blog)<br>
 5. ⬆️ Pushed 1 commit(s) to [kinho6119/kinho6119](https://github.com/kinho6119/kinho6119)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 17th, 2024, 7:16:46 AM
+Last Updated: Saturday, August 17th, 2024, 7:38:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
