@@ -78,7 +78,7 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 
 # 🎵 Spotify Recently Played
 <div align="center">
-  <a href="https://open.spotify.com/user/31gzoeut7lw4cz7v54tofk4f6m3i">
+  <a href="https://github.com/tthn0/Spotify-Readme">
     <picture>
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://KinhoLeung.pythonanywhere.com?theme=light&scan=false&spin=true" />
       <source media="(prefers-color-scheme: dark)" srcset="https://KinhoLeung.pythonanywhere.com?theme=dark&scan=false&spin=true" />
