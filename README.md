@@ -104,6 +104,7 @@ Last Updated: Monday, August 19th, 2024, 3:38:45 PM
 
 # 🗒️ Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [WSL2连接USB存储设备](https://fuwari.vercel.app/posts/wsl2%E8%BF%9E%E6%8E%A5usb%E5%AD%98%E5%82%A8%E8%AE%BE%E5%A4%87/)
 - [Markdown Extended Features](https://fuwari.vercel.app/posts/markdown-extended/)
 - [Simple Guides for Fuwari](https://fuwari.vercel.app/posts/guide/)
 - [Markdown Example](https://fuwari.vercel.app/posts/markdown/)
