@@ -104,11 +104,11 @@ Last Updated: Friday, August 23rd, 2024, 4:43:30 PM
 
 # 🗒️ Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [一些实用的嵌入式工具代码分享](https://fuwari.vercel.app/posts/%E5%88%86%E4%BA%AB%E5%87%A0%E4%B8%AA%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E4%BB%A3%E7%A0%81/)
+- [一些嵌入式代码优化技巧分享](https://fuwari.vercel.app/posts/%E5%AE%9E%E7%94%A8%E7%9A%84%E5%B5%8C%E5%85%A5%E5%BC%8F%E4%BB%A3%E7%A0%81%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7%E4%B8%8E%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/)
 - [WSL2连接USB存储设备](https://fuwari.vercel.app/posts/wsl2%E8%BF%9E%E6%8E%A5usb%E5%AD%98%E5%82%A8%E8%AE%BE%E5%A4%87/)
 - [Markdown Extended Features](https://fuwari.vercel.app/posts/markdown-extended/)
 - [Simple Guides for Fuwari](https://fuwari.vercel.app/posts/guide/)
-- [Markdown Example](https://fuwari.vercel.app/posts/markdown/)
-- [Include Video in the Posts](https://fuwari.vercel.app/posts/video/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Contact Me
