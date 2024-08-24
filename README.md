@@ -93,12 +93,12 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 1. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
 2. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
 3. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
-4. ⭐ Starred [getcursor/cursor](https://github.com/getcursor/cursor)<br>
-5. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
+4. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
+5. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 24th, 2024, 12:37:32 PM
+Last Updated: Saturday, August 24th, 2024, 1:20:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
