@@ -90,15 +90,15 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 
 # ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
-2. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
+1. ⭐ Starred [ddgth/cf2dns](https://github.com/ddgth/cf2dns)<br>
+2. ⭐ Starred [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare)<br>
 3. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
 4. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
 5. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 13th, 2024, 3:41:40 PM
+Last Updated: Friday, September 13th, 2024, 4:26:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
