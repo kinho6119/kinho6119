@@ -90,7 +90,7 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 
 # ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
+1. ⬆️ Pushed 6 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
 2. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
 3. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
 4. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Oathblade](https://github.com/KinhoLeung/Oathblade)<br>
@@ -98,7 +98,7 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 20th, 2024, 2:40:38 PM
+Last Updated: Friday, September 20th, 2024, 3:23:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
