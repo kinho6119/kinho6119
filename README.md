@@ -87,6 +87,16 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
   </a>
 </div>
 
+# 🎮 Steam Recently Played
+<div align="center">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+    <picture>
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://steam-readme-dofg63gfr-oathblade.vercel.app/?theme=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://steam-readme-dofg63gfr-oathblade.vercel.app/?theme=dark" />
+      <img alt="Current Spotify Song" src="https://steam-readme-dofg63gfr-oathblade.vercel.app/?theme=light" /> 
+    </picture>
+  </a>
+</div>
 
 # ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
