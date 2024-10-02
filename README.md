@@ -91,9 +91,9 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 <div align="center">
   <a href="https://github.com/KinhoLeung/Steam-Readme">
     <picture>
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://steam-readme.vercel.app?theme=light&v=1" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://steam-readme.vercel.app?theme=dark&v=1" />
-      <img alt="Current Spotify Song" src="https://steam-readme.vercel.app?theme=light&v=1" /> 
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://steam-readme.vercel.app?v=1&theme=light" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://steam-readme.vercel.app?v=1&theme=dark" />
+      <img alt="Current Spotify Song" src="https://steam-readme.vercel.app?v=1&theme=light" /> 
     </picture>
   </a>
 </div>
