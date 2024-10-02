@@ -104,12 +104,12 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 1. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Steam-Readme](https://github.com/KinhoLeung/Steam-Readme)<br>
 2. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Steam-Readme](https://github.com/KinhoLeung/Steam-Readme)<br>
 3. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Steam-Readme](https://github.com/KinhoLeung/Steam-Readme)<br>
-4. ⬆️ Pushed 1 commit(s) to [KinhoLeung/KinhoLeung](https://github.com/KinhoLeung/KinhoLeung)<br>
+4. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Steam-Readme](https://github.com/KinhoLeung/Steam-Readme)<br>
 5. ⬆️ Pushed 1 commit(s) to [KinhoLeung/KinhoLeung](https://github.com/KinhoLeung/KinhoLeung)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 2nd, 2024, 5:39:36 PM
+Last Updated: Wednesday, October 2nd, 2024, 6:31:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
