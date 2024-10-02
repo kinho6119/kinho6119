@@ -89,7 +89,7 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
 
 # 🎮 Steam Recently Played
 <div align="center">
-  <a href="https://github.com/tthn0/Spotify-Readme">
+  <a href="https://github.com/KinhoLeung/Steam-Readme">
     <picture>
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://steam-readme.vercel.app?theme=light" />
       <source media="(prefers-color-scheme: dark)" srcset="https://steam-readme.vercel.app?theme=dark" />
