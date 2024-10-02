@@ -98,6 +98,8 @@ https://skillicons.dev/icons?i=anaconda,astro,azure,bash,c,cpp,cloudflare,cmake,
   </a>
 </div>
 
+![steam-readme](https://steam-readme.vercel.app)
+
 # ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KinhoLeung/Steam-Readme](https://github.com/KinhoLeung/Steam-Readme)<br>
